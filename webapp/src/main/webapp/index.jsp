@@ -4,20 +4,20 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="name"><b>Name</b></label>
+    <label for="name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="Mobile"><b>Mobile</b></label>
+    <label for="Mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
