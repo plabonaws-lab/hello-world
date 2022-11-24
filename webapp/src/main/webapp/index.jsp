@@ -20,11 +20,6 @@
     <input type="text" placeholder="Enter Address" name="address" id="adddress" required>
     <br>
 
-    <label for="office Address"><b>Office Address</b></label>
-    <input type="text" placeholder="Enter Office Address" name="office-address" id="office-adddress" required>
-    <br>
-
-
     <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
